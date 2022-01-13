@@ -11,9 +11,9 @@ The game used for this Model is Atari's MsPacman
 
 The game was used by downloading ROM files.
 
-![AtariMania 'ROMS'](http://www.atarimania.com/roms/Roms.rar)
+[AtariMania 'ROMS'](http://www.atarimania.com/roms/Roms.rar)
 
-![importingbreakoutGame](https://raw.githubusercontent.com/AnuraagRath/A.I-learns-to-play-Atari-Breakout-ReinforcementLearning/main/pics/7.png)
+[importingbreakoutGame](https://raw.githubusercontent.com/AnuraagRath/A.I-learns-to-play-Atari-Breakout-ReinforcementLearning/main/pics/7.png)
 
 ## The Algorithm:
 
